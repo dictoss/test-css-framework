@@ -1,0 +1,48 @@
+// site.css
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+/* initialize of line-span */
+h1,h2,h3,h4,h5,h6,p,ul,ol,dl
+{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+body
+{
+  font-size : 16px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+h1,h2,h3,h4
+{
+  margin-top: 4px;
+  margin-bottom: 4px;
+  margin-left: 4px;
+  margin-right: 4px;
+}
+
+.navbar .navbar-brand
+{
+}
+
+.nav-item
+{
+}
+
+/*
+ footer
+ */
+.footer {
+  /* position: absolute; */
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 26px;
+}
